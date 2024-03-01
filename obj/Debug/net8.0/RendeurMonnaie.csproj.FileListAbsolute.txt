@@ -1,0 +1,14 @@
+C:\Users\Sacha\source\repos\RendeurMonnaie\bin\Debug\net8.0\RendeurMonnaie.exe
+C:\Users\Sacha\source\repos\RendeurMonnaie\bin\Debug\net8.0\RendeurMonnaie.deps.json
+C:\Users\Sacha\source\repos\RendeurMonnaie\bin\Debug\net8.0\RendeurMonnaie.runtimeconfig.json
+C:\Users\Sacha\source\repos\RendeurMonnaie\bin\Debug\net8.0\RendeurMonnaie.dll
+C:\Users\Sacha\source\repos\RendeurMonnaie\bin\Debug\net8.0\RendeurMonnaie.pdb
+C:\Users\Sacha\source\repos\RendeurMonnaie\obj\Debug\net8.0\RendeurMonnaie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sacha\source\repos\RendeurMonnaie\obj\Debug\net8.0\RendeurMonnaie.AssemblyInfoInputs.cache
+C:\Users\Sacha\source\repos\RendeurMonnaie\obj\Debug\net8.0\RendeurMonnaie.AssemblyInfo.cs
+C:\Users\Sacha\source\repos\RendeurMonnaie\obj\Debug\net8.0\RendeurMonnaie.csproj.CoreCompileInputs.cache
+C:\Users\Sacha\source\repos\RendeurMonnaie\obj\Debug\net8.0\RendeurMonnaie.dll
+C:\Users\Sacha\source\repos\RendeurMonnaie\obj\Debug\net8.0\refint\RendeurMonnaie.dll
+C:\Users\Sacha\source\repos\RendeurMonnaie\obj\Debug\net8.0\RendeurMonnaie.pdb
+C:\Users\Sacha\source\repos\RendeurMonnaie\obj\Debug\net8.0\RendeurMonnaie.genruntimeconfig.cache
+C:\Users\Sacha\source\repos\RendeurMonnaie\obj\Debug\net8.0\ref\RendeurMonnaie.dll
